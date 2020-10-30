@@ -1,0 +1,24 @@
+C:\Users\Angel\Documents\CURSO#\registros\registros\bin\Debug\registros.exe.config
+C:\Users\Angel\Documents\CURSO#\registros\registros\bin\Debug\registros.exe
+C:\Users\Angel\Documents\CURSO#\registros\registros\bin\Debug\registros.pdb
+C:\Users\Angel\Documents\CURSO#\registros\registros\obj\Debug\registros.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Documents\CURSO#\registros\registros\obj\Debug\registros.Form1.resources
+C:\Users\Angel\Documents\CURSO#\registros\registros\obj\Debug\registros.Properties.Resources.resources
+C:\Users\Angel\Documents\CURSO#\registros\registros\obj\Debug\registros.csproj.GenerateResource.Cache
+C:\Users\Angel\Documents\CURSO#\registros\registros\obj\Debug\registros.exe
+C:\Users\Angel\Documents\CURSO#\registros\registros\obj\Debug\registros.pdb
+C:\Users\Angel\Documents\CURSO#\registros\registros\obj\Debug\registros.Form2.resources
+C:\Users\Angel\Documents\CURSO#\registros\registros\obj\Debug\registros.Form3.resources
+C:\Users\Angel\Documents\CURSO#\registros\registros\obj\Debug\registros.Form4.resources
+D:\RECUPERADOR DE ARCHIVOS\Recovered data 09-08 21_17_21\Resultado de Escaneo Profundo\Partición Perdida1(NTFS)\Other lost files\registros\registros\bin\Debug\registros.exe.config
+D:\RECUPERADOR DE ARCHIVOS\Recovered data 09-08 21_17_21\Resultado de Escaneo Profundo\Partición Perdida1(NTFS)\Other lost files\registros\registros\bin\Debug\registros.exe
+D:\RECUPERADOR DE ARCHIVOS\Recovered data 09-08 21_17_21\Resultado de Escaneo Profundo\Partición Perdida1(NTFS)\Other lost files\registros\registros\bin\Debug\registros.pdb
+D:\RECUPERADOR DE ARCHIVOS\Recovered data 09-08 21_17_21\Resultado de Escaneo Profundo\Partición Perdida1(NTFS)\Other lost files\registros\registros\obj\Debug\registros.csprojResolveAssemblyReference.cache
+D:\RECUPERADOR DE ARCHIVOS\Recovered data 09-08 21_17_21\Resultado de Escaneo Profundo\Partición Perdida1(NTFS)\Other lost files\registros\registros\obj\Debug\registros.Form1.resources
+D:\RECUPERADOR DE ARCHIVOS\Recovered data 09-08 21_17_21\Resultado de Escaneo Profundo\Partición Perdida1(NTFS)\Other lost files\registros\registros\obj\Debug\registros.Form2.resources
+D:\RECUPERADOR DE ARCHIVOS\Recovered data 09-08 21_17_21\Resultado de Escaneo Profundo\Partición Perdida1(NTFS)\Other lost files\registros\registros\obj\Debug\registros.Form3.resources
+D:\RECUPERADOR DE ARCHIVOS\Recovered data 09-08 21_17_21\Resultado de Escaneo Profundo\Partición Perdida1(NTFS)\Other lost files\registros\registros\obj\Debug\registros.Form4.resources
+D:\RECUPERADOR DE ARCHIVOS\Recovered data 09-08 21_17_21\Resultado de Escaneo Profundo\Partición Perdida1(NTFS)\Other lost files\registros\registros\obj\Debug\registros.Properties.Resources.resources
+D:\RECUPERADOR DE ARCHIVOS\Recovered data 09-08 21_17_21\Resultado de Escaneo Profundo\Partición Perdida1(NTFS)\Other lost files\registros\registros\obj\Debug\registros.csproj.GenerateResource.Cache
+D:\RECUPERADOR DE ARCHIVOS\Recovered data 09-08 21_17_21\Resultado de Escaneo Profundo\Partición Perdida1(NTFS)\Other lost files\registros\registros\obj\Debug\registros.exe
+D:\RECUPERADOR DE ARCHIVOS\Recovered data 09-08 21_17_21\Resultado de Escaneo Profundo\Partición Perdida1(NTFS)\Other lost files\registros\registros\obj\Debug\registros.pdb
